@@ -1,0 +1,6 @@
+{ 
+"sceneName": "L_020",
+"log": "L_020_20201005_152416.replay",
+"team": "MyFirstAiBot",
+  "turnsData": [{"orders":[]}],
+  "resultData":{"hasWin":false,"resultPayload":"Bot Timout (2206)"}}

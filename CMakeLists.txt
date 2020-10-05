@@ -34,6 +34,15 @@ SET( AIBOT_HEADERS
 	Logger.h
 	MyBotLogic.h	
 	TurnData.h
+
+	#AlphaStar
+	AlphaStar/Sommet.h
+	AlphaStar/Graphe.h
+	AlphaStar/AlphaStar.h
+
+	#Intelligence
+	Intelligence/Bot.h
+	Intelligence/BigBrain.h
 	
 	#DLL Stuff
 	Interop_API.h	
@@ -47,6 +56,15 @@ SET( AIBOT_SRC
 	AIBot.cpp
 	Logger.cpp
 	MyBotLogic.cpp
+
+	#AlphaStar
+	AlphaStar/Sommet.cpp
+	AlphaStar/Graphe.cpp
+	AlphaStar/AlphaStar.cpp
+
+	#Intelligence
+	Intelligence/Bot.cpp
+	Intelligence/BigBrain.cpp
 
 	#DLL Stuff
 	dllmain.cpp
