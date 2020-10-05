@@ -1,0 +1,22 @@
+2020-10-05 11:48:51
+
+Configure
+Init
+Affiche les cases
+TILE(0, 1) > type: 0
+Affiche les cases
+TILE(1, 0) > type: 0
+Affiche les cases
+TILE(2, 1) > type: 0
+Affiche les cases
+TILE(0, 2) > type: 0
+Affiche les cases
+TILE(1, 1) > type: 2
+Affiche les cases
+TILE(1, 2) > type: 0
+Affiche les cases
+TILE(2, 0) > type: 2
+Affiche les cases
+TILE(2, -1) > type: 0
+Affiche les cases
+TILE(0, 0) > type: 0
